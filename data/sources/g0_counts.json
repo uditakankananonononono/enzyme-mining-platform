@@ -1,0 +1,242 @@
+{
+ "records": [
+  {
+   "study": "MGYS00005625",
+   "class": "C1",
+   "analysis": "MGYA00572563",
+   "url": "https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00572563/file/ERZ1644704_FASTA_predicted_cds.faa.gz",
+   "retrieved_utc": "2026-10-09T19:32:27Z",
+   "sha256": "d4c8dbe9d6819fa8bc83600edc1ac6fc4b2a0d6c972dcd52969e7d88a06a3d5f",
+   "bytes": 40295368,
+   "protein_records": 326195,
+   "complete": true
+  },
+  {
+   "study": "MGYS00005625",
+   "class": "C1",
+   "analysis": "MGYA00572564",
+   "url": "https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00572564/file/ERZ1644701_FASTA_predicted_cds.faa.gz",
+   "retrieved_utc": "2026-10-09T19:35:45Z",
+   "sha256": "e0ef469fa3162d4e80bacbab1378fbe6d43801c047a4a85205c528e82b1b460b",
+   "bytes": 61049754,
+   "protein_records": 447609,
+   "complete": true
+  },
+  {
+   "study": "MGYS00005625",
+   "class": "C1",
+   "analysis": "MGYA00572565",
+   "url": "https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00572565/file/ERZ1644706_FASTA_predicted_cds.faa.gz",
+   "retrieved_utc": "2026-10-09T19:39:35Z",
+   "sha256": "44e0fc1998df33b9d2f591bfbae7cff4b2c79341d31d44b3663bb3a7659b3e26",
+   "bytes": 55863936,
+   "protein_records": 408104,
+   "complete": true
+  },
+  {
+   "study": "MGYS00005625",
+   "class": "C1",
+   "analysis": "MGYA00572566",
+   "url": "https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00572566/file/ERZ1644705_FASTA_predicted_cds.faa.gz",
+   "retrieved_utc": "2026-10-09T19:40:55Z",
+   "sha256": "4807936216eeaff7a06cf85ca6681d1479f10e590a44fcc59c3596b80728e0d2",
+   "bytes": 26114126,
+   "protein_records": 239583,
+   "complete": true
+  },
+  {
+   "study": "MGYS00005625",
+   "class": "C1",
+   "analysis": "MGYA00572567",
+   "url": "https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00572567/file/ERZ1644703_FASTA_predicted_cds.faa.gz",
+   "retrieved_utc": "2026-10-09T19:45:16Z",
+   "sha256": "a3aa2fdb8eabb0569267246943ae4634ae019df7916da0abfa59d6700c3277ee",
+   "bytes": 69108381,
+   "protein_records": 500046,
+   "complete": true
+  },
+  {
+   "study": "MGYS00005625",
+   "class": "C1",
+   "analysis": "MGYA00572568",
+   "url": "https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00572568/file/ERZ1644702_FASTA_predicted_cds.faa.gz",
+   "retrieved_utc": "2026-10-09T19:49:24Z",
+   "sha256": "89cbf64cbf092316746a8a346322f477f1aed7c70fc1fe0bc0ad426f3d131129",
+   "bytes": 68977268,
+   "protein_records": 502103,
+   "complete": true
+  },
+  {
+   "study": "MGYS00005625",
+   "class": "C1",
+   "analysis": "MGYA00572569",
+   "url": "https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00572569/file/ERZ1644700_FASTA_predicted_cds.faa.gz",
+   "retrieved_utc": "2026-10-09T19:51:39Z",
+   "sha256": "5cd7e50941f5364fefae5bfee5c16b3ad6c09d33eebfac6b3e749c6f838988cd",
+   "bytes": 41268669,
+   "protein_records": 309601,
+   "complete": true
+  },
+  {
+   "study": "MGYS00005625",
+   "class": "C1",
+   "analysis": "MGYA00572570",
+   "url": "https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00572570/file/ERZ1644699_FASTA_predicted_cds.faa.gz",
+   "retrieved_utc": "2026-10-09T20:07:36Z",
+   "sha256": "ccd8bd505142fb4d2d122fc5640a204f38cbf29dc406b0d1ed9d19b6ab503e70",
+   "bytes": 45235745,
+   "protein_records": 334759,
+   "complete": true
+  },
+  {
+   "study": "MGYS00005625",
+   "class": "C1",
+   "analysis": "MGYA00572571",
+   "url": "https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00572571/file/ERZ1644698_FASTA_predicted_cds.faa.gz",
+   "retrieved_utc": "2026-10-09T20:10:44Z",
+   "sha256": "c1e06d05b58db09d2156fd9d8cf2d9a06e9b0ce142f525335fe3f23cda30df87",
+   "bytes": 20187058,
+   "protein_records": 240238,
+   "complete": true
+  },
+  {
+   "study": "MGYS00002316",
+   "class": "C2",
+   "analysis": "MGYA00153745",
+   "complete": false,
+   "reason": "no predicted_cds download"
+  },
+  {
+   "study": "MGYS00002316",
+   "class": "C2",
+   "analysis": "MGYA00153745",
+   "alias": "OFEK01_FASTA_CDS_annotated.faa.gz",
+   "url": "https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00153745/file/OFEK01_FASTA_CDS_annotated.faa.gz",
+   "retrieved_utc": "2026-10-09T20:26:15Z",
+   "sha256": "65faff56720f19609409512afc8dc30c26361141ed334c20eb77bcf21682d431",
+   "bytes": 51196192,
+   "protein_records": 211683,
+   "complete": true
+  },
+  {
+   "study": "MGYS00002316",
+   "class": "C2",
+   "analysis": "MGYA00153745",
+   "alias": "OFEK01_FASTA_CDS_unannotated.faa.gz",
+   "url": "https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00153745/file/OFEK01_FASTA_CDS_unannotated.faa.gz",
+   "retrieved_utc": "2026-10-09T20:26:45Z",
+   "sha256": "8dc7db50df103255160ad02400013b835ba7ca2af29b58cc080fc24a7fb885f3",
+   "bytes": 9500347,
+   "protein_records": 81487,
+   "complete": true
+  },
+  {
+   "study": "MGYS00005985",
+   "class": "C2",
+   "analysis": "MGYA00594178",
+   "alias": "ERZ2272829_FASTA_predicted_cds.faa.gz",
+   "url": "https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00594178/file/ERZ2272829_FASTA_predicted_cds.faa.gz",
+   "retrieved_utc": "2026-10-09T20:29:03Z",
+   "sha256": "59fe4ab5a5c454cbf4c0c6591f44eee0059f43dca39b431c2966c976e8b861e0",
+   "bytes": 38867108,
+   "protein_records": 205364,
+   "complete": true
+  },
+  {
+   "study": "MGYS00005997",
+   "class": "C2",
+   "analysis": "MGYA00594635",
+   "alias": "ERZ2606006_FASTA_predicted_cds.faa.gz",
+   "url": "https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00594635/file/ERZ2606006_FASTA_predicted_cds.faa.gz",
+   "retrieved_utc": "2026-10-09T20:31:06Z",
+   "sha256": "23c3feda79495363f704d11892b1ac2f0aea17a4ae5a83b4485fe9eb0ca5447b",
+   "bytes": 51441273,
+   "protein_records": 259469,
+   "complete": true
+  },
+  {
+   "study": "MGYS00005625",
+   "class": "C1",
+   "analysis": "MGYA00572572",
+   "alias": "ERZ1644697_FASTA_predicted_cds.faa.gz",
+   "url": "https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00572572/file/ERZ1644697_FASTA_predicted_cds.faa.gz",
+   "retrieved_utc": "2026-10-09T20:41:56Z",
+   "sha256": "1891a82dd899be64a0f6d9665e7b56f80b03f26e5f8ed9c664a8357fc88ca0a4",
+   "bytes": 27444982,
+   "protein_records": 225002,
+   "complete": true
+  },
+  {
+   "study": "MGYS00005625",
+   "class": "C1",
+   "analysis": "MGYA00572573",
+   "alias": "ERZ1644696_FASTA_predicted_cds.faa.gz",
+   "url": "https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00572573/file/ERZ1644696_FASTA_predicted_cds.faa.gz",
+   "retrieved_utc": "2026-10-09T20:42:48Z",
+   "sha256": "a6e7d4160240764c06e2cd23f9c621244fe1c2dbe95e4275974e2504f90f788e",
+   "bytes": 20447651,
+   "protein_records": 185261,
+   "complete": true
+  },
+  {
+   "study": "MGYS00005625",
+   "class": "C1",
+   "analysis": "MGYA00572574",
+   "alias": "ERZ1644695_FASTA_predicted_cds.faa.gz",
+   "url": "https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00572574/file/ERZ1644695_FASTA_predicted_cds.faa.gz",
+   "retrieved_utc": "2026-10-09T20:43:27Z",
+   "sha256": "228559b96f838730aaa3399bc6f42ad861d16fafd49cb25c3a9afc5220e05439",
+   "bytes": 21284637,
+   "protein_records": 174641,
+   "complete": true
+  },
+  {
+   "study": "MGYS00005970",
+   "class": "C1",
+   "analysis": "MGYA00594112",
+   "alias": "ERZ4891816_FASTA_predicted_cds.faa.gz",
+   "url": "https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00594112/file/ERZ4891816_FASTA_predicted_cds.faa.gz",
+   "retrieved_utc": "2026-10-09T20:45:56Z",
+   "sha256": "e36c627cb7de21f8b8271929b00c6a3fa7646def1c14e9cc526195323715752b",
+   "bytes": 35282769,
+   "protein_records": 225374,
+   "complete": true
+  },
+  {
+   "study": "MGYS00005970",
+   "class": "C1",
+   "analysis": "MGYA00594113",
+   "alias": "ERZ4891813_FASTA_predicted_cds.faa.gz",
+   "url": "https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00594113/file/ERZ4891813_FASTA_predicted_cds.faa.gz",
+   "retrieved_utc": "2026-10-09T20:58:32Z",
+   "sha256": "fc7265624535eb70678c32e044a2d28984bef36868fb3a5ee1af4693df8755df",
+   "bytes": 56294967,
+   "protein_records": 368231,
+   "complete": true
+  },
+  {
+   "study": "MGYS00005970",
+   "class": "C1",
+   "analysis": "MGYA00594114",
+   "alias": "ERZ4891810_FASTA_predicted_cds.faa.gz",
+   "url": "https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00594114/file/ERZ4891810_FASTA_predicted_cds.faa.gz",
+   "retrieved_utc": "2026-10-09T21:00:37Z",
+   "sha256": "891d891551e566b81c0c693b1f9fbe104e8ceb1259a6f16f2fedb1c34873bd68",
+   "bytes": 38981348,
+   "protein_records": 251684,
+   "complete": true
+  },
+  {
+   "study": "MGYS00006544",
+   "class": "C1",
+   "analysis": "MGYA00693733",
+   "alias": "ERZ21854033_FASTA_predicted_cds.faa.gz",
+   "url": "https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00693733/file/ERZ21854033_FASTA_predicted_cds.faa.gz",
+   "retrieved_utc": "2026-10-09T21:15:11Z",
+   "sha256": "4b2c68b7de9e246127ef655d8b0cdc11fe96fc4e974e9d4d653e2597e57fb21e",
+   "bytes": 41808710,
+   "protein_records": 313929,
+   "complete": true
+  }
+ ]
+}
