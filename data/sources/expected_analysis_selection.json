@@ -1,0 +1,158 @@
+[
+ {
+  "study": "MGYS00005625",
+  "class": "C1",
+  "analysis": "MGYA00572563",
+  "rule": "all"
+ },
+ {
+  "study": "MGYS00005625",
+  "class": "C1",
+  "analysis": "MGYA00572564",
+  "rule": "all"
+ },
+ {
+  "study": "MGYS00005625",
+  "class": "C1",
+  "analysis": "MGYA00572565",
+  "rule": "all"
+ },
+ {
+  "study": "MGYS00005625",
+  "class": "C1",
+  "analysis": "MGYA00572566",
+  "rule": "all"
+ },
+ {
+  "study": "MGYS00005625",
+  "class": "C1",
+  "analysis": "MGYA00572567",
+  "rule": "all"
+ },
+ {
+  "study": "MGYS00005625",
+  "class": "C1",
+  "analysis": "MGYA00572568",
+  "rule": "all"
+ },
+ {
+  "study": "MGYS00005625",
+  "class": "C1",
+  "analysis": "MGYA00572569",
+  "rule": "all"
+ },
+ {
+  "study": "MGYS00005625",
+  "class": "C1",
+  "analysis": "MGYA00572570",
+  "rule": "all"
+ },
+ {
+  "study": "MGYS00005625",
+  "class": "C1",
+  "analysis": "MGYA00572571",
+  "rule": "all"
+ },
+ {
+  "study": "MGYS00005625",
+  "class": "C1",
+  "analysis": "MGYA00572572",
+  "rule": "all"
+ },
+ {
+  "study": "MGYS00005625",
+  "class": "C1",
+  "analysis": "MGYA00572573",
+  "rule": "all"
+ },
+ {
+  "study": "MGYS00005625",
+  "class": "C1",
+  "analysis": "MGYA00572574",
+  "rule": "all"
+ },
+ {
+  "study": "MGYS00005970",
+  "class": "C1",
+  "analysis": "MGYA00594112",
+  "rule": "all"
+ },
+ {
+  "study": "MGYS00005970",
+  "class": "C1",
+  "analysis": "MGYA00594113",
+  "rule": "all"
+ },
+ {
+  "study": "MGYS00005970",
+  "class": "C1",
+  "analysis": "MGYA00594114",
+  "rule": "all"
+ },
+ {
+  "study": "MGYS00006544",
+  "class": "C1",
+  "analysis": "MGYA00693733",
+  "rule": "every6th"
+ },
+ {
+  "study": "MGYS00006544",
+  "class": "C1",
+  "analysis": "MGYA00693739",
+  "rule": "every6th"
+ },
+ {
+  "study": "MGYS00006544",
+  "class": "C1",
+  "analysis": "MGYA00693745",
+  "rule": "every6th"
+ },
+ {
+  "study": "MGYS00006544",
+  "class": "C1",
+  "analysis": "MGYA00693751",
+  "rule": "every6th"
+ },
+ {
+  "study": "MGYS00006544",
+  "class": "C1",
+  "analysis": "MGYA00693757",
+  "rule": "every6th"
+ },
+ {
+  "study": "MGYS00006544",
+  "class": "C1",
+  "analysis": "MGYA00693763",
+  "rule": "every6th"
+ },
+ {
+  "study": "MGYS00006544",
+  "class": "C1",
+  "analysis": "MGYA00693769",
+  "rule": "every6th"
+ },
+ {
+  "study": "MGYS00006544",
+  "class": "C1",
+  "analysis": "MGYA00693775",
+  "rule": "every6th"
+ },
+ {
+  "study": "MGYS00002316",
+  "class": "C2",
+  "analysis": "MGYA00153745",
+  "rule": "all"
+ },
+ {
+  "study": "MGYS00005985",
+  "class": "C2",
+  "analysis": "MGYA00594178",
+  "rule": "all"
+ },
+ {
+  "study": "MGYS00005997",
+  "class": "C2",
+  "analysis": "MGYA00594635",
+  "rule": "all"
+ }
+]
