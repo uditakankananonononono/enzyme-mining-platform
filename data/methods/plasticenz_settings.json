@@ -1,0 +1,31 @@
+{
+ "source_repo": "https://github.com/msysbio/PlasticEnz",
+ "source_commit": "3ee1dc515f62fd7ece31b8ad06de49124974e1b1",
+ "polymer": "PET",
+ "evalue_hmmer": 1e-05,
+ "bitscore_hmmer": 20,
+ "evalue_diamond": {
+  "value": 1e-05,
+  "used_for_pet": false
+ },
+ "bitscore_diamond": {
+  "value": 20,
+  "used_for_pet": false
+ },
+ "sensitive": false,
+ "use_gpu": false,
+ "cores": 1,
+ "classifier": "shipped default xgb_model.pkl",
+ "candidate_ranking": "PET_prediction_xgb descending, then sequence_sha256 ascending; missing probability ineligible",
+ "benchmark_fasta": "DEFERRED_TO_AMENDMENT_3",
+ "precision_budget": 20,
+ "readiness": "BLOCKED",
+ "pet_diamond_status": "unused: PET absent from shipped polymer_to_diamond mapping",
+ "source_file_hashes": {
+  "PlasticEnz/data/model/xgb_model.pkl": "dc5969caf41c22c7ee553443908c94b1979d47a2a71e4971bb1492aac77c94c9",
+  "PlasticEnz/data/polymer_hmms/PET.hmm": "0fcc9c4f3c1c5b2f31899c003ab0a48e8c0514833b987e1974f1e2a7951b7422",
+  "PlasticEnz/modules/run_diamond.py": "b310b9829aba84b06d8baefc04c058df99362b559ab733c9b5948cb576bcb452",
+  "PlasticEnz/main.py": "9618cb52711ebe4964a11b257f2f0a2a33b11735ac0fff430de62ca0247986a9"
+ },
+ "route_evidence": "main.py run_ml_predictions: sensitive=false selects data/model/xgb_model.pkl and model_tag=xgb; run_prediction.py formats {poly}_prediction_{model_tag}"
+}
