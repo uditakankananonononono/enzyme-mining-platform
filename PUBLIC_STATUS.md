@@ -19,3 +19,5 @@ See AMENDMENT_PROPOSED.md, DEVIATIONS.md, RETRIEVAL_REPAIR.md and source counts.
 Structure-guided PET screening is prior art (VenusMine2025). Any contribution
 must be restricted to cross-pollutant/family-rejection/reference-exclusion
 claims actually tested; nominees remain lab-testable hypotheses.
+
+GATES_LOCKED.md is retained as a historical lock-1 record, not the current executable gate set. Its superseded scope is stale; see the partial, unlocked amendment and deviations above. 
