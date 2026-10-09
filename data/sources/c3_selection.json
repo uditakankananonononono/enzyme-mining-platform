@@ -1,0 +1,34 @@
+{
+ "selection_rule": "Both assembly analyses; both annotated and unannotated CDS partitions, no functional selection. Feasibility retrieval only, before sequence inspection. Inclusion depends on >=5000 records; no solvent-chemistry inference.",
+ "recorded_utc": "2026-10-09T19:44:33.194303+00:00",
+ "records": [
+  {
+   "study": "MGYS00005009",
+   "class": "C3",
+   "analysis": "MGYA00375579",
+   "alias": "ERZ795384_FASTA_CDS_annotated.faa.gz",
+   "url": "https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00375579/file/ERZ795384_FASTA_CDS_annotated.faa.gz"
+  },
+  {
+   "study": "MGYS00005009",
+   "class": "C3",
+   "analysis": "MGYA00375579",
+   "alias": "ERZ795384_FASTA_CDS_unannotated.faa.gz",
+   "url": "https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00375579/file/ERZ795384_FASTA_CDS_unannotated.faa.gz"
+  },
+  {
+   "study": "MGYS00005009",
+   "class": "C3",
+   "analysis": "MGYA00375580",
+   "alias": "ERZ795386_FASTA_CDS_annotated.faa.gz",
+   "url": "https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00375580/file/ERZ795386_FASTA_CDS_annotated.faa.gz"
+  },
+  {
+   "study": "MGYS00005009",
+   "class": "C3",
+   "analysis": "MGYA00375580",
+   "alias": "ERZ795386_FASTA_CDS_unannotated.faa.gz",
+   "url": "https://www.ebi.ac.uk/metagenomics/api/v1/analyses/MGYA00375580/file/ERZ795386_FASTA_CDS_unannotated.faa.gz"
+  }
+ ]
+}
