@@ -1,0 +1,90 @@
+{
+  
+  "status": "G0_RETRIEVAL_COMPLETE_ONLY",
+  
+  "verified_utc": "2026-10-09T23:55:16.913410+00:00",
+  
+  "complete_payload_files": 31,
+  
+  "C1": {
+    
+    "analyses": 23,
+    
+    "protein_records": 6468866
+    
+  },
+  
+  "C2": {
+    
+    "analyses": 3,
+    
+    "payload_partitions": 4,
+    
+    "protein_records": 758003
+    
+  },
+  
+  "C3": {
+    
+    "analyses": 2,
+    
+    "payload_partitions": 4,
+    
+    "protein_records": 211621
+    
+  },
+  
+  "total_protein_records": 7438490,
+  
+  "all_expected_analyses_present": true,
+  
+  "checks": [
+    
+    "all payload byte sizes",
+    
+    "all SHA256 hashes",
+    
+    "all gzip CRC via EOF",
+    
+    "all FASTA header counts",
+    
+    "fixed accession selection coverage"
+    
+  ],
+  
+  "historical_incomplete_record": "MGYA00153745 no predicted_cds download record retained; superseded by two complete split-CDS partitions",
+  
+  "outcome_run": false,
+  
+  "amendment3_locked": false
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
