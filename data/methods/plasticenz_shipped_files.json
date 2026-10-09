@@ -1,0 +1,42 @@
+[
+ {
+  "path": "PlasticEnz/modules/run_diamond.py",
+  "bytes": 2523,
+  "sha256": "b310b9829aba84b06d8baefc04c058df99362b559ab733c9b5948cb576bcb452"
+ },
+ {
+  "path": "PlasticEnz/main.py",
+  "bytes": 17178,
+  "sha256": "9618cb52711ebe4964a11b257f2f0a2a33b11735ac0fff430de62ca0247986a9"
+ },
+ {
+  "path": "PlasticEnz/data/polymer_seqs/PBS.dmnd",
+  "bytes": 3534,
+  "sha256": "d61793293b79a9576f1acf72e3a5adc12decab6bba167fb76a6661e6ef3a45a7"
+ },
+ {
+  "path": "PlasticEnz/data/polymer_seqs/PBSA.dmnd",
+  "bytes": 1772,
+  "sha256": "205509b21be5f25cf7fa4390bea4db138303fbc2046d17a94a9b84923bc59760"
+ },
+ {
+  "path": "PlasticEnz/data/polymer_seqs/PCL.dmnd",
+  "bytes": 3578,
+  "sha256": "7a8b75818276d235a2762db0d52dcf6f7d21c50d73311ff2cc8894312a304466"
+ },
+ {
+  "path": "PlasticEnz/data/polymer_seqs/PES.dmnd",
+  "bytes": 6927,
+  "sha256": "55ff4c1520423ee4da43a88740a3e10dfc7a5d58b9b5a5998d00ef5887cc3e73"
+ },
+ {
+  "path": "PlasticEnz/data/polymer_seqs/PHBV.dmnd",
+  "bytes": 5067,
+  "sha256": "96ec7d8f0b3c8a2032ea04f602372f3cb39365629c7f732ce1bfbd072348c7bc"
+ },
+ {
+  "path": "PlasticEnz/data/polymer_seqs/PLA.dmnd",
+  "bytes": 8359,
+  "sha256": "a5c942340c0497f3e0274dbb8323517feaf8fbde632cbd5dd0dc0e763457ba60"
+ }
+]
