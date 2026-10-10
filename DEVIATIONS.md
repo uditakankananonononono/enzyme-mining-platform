@@ -52,3 +52,17 @@ limits and missing labels are blockers, never permissions to lower the bar.
 G1 thresholds easy under random ranking. Proposed amendment3 adds exact upper
 tail hypergeometric p<0.05/class plus reporting random E and all recovery tails.
 This is an ADDED gate requiring pre-score freeze; no run authorized yet.
+
+## Amendment 3 draft, 2026-10-10 07:06 IST, before outcome computation
+
+UNLOCKED/NOT EXECUTABLE. See AMENDMENT_3_DRAFT.md. Measured-negative benchmark
+floor withdrawn after terminal public assay-source blocks. PET uses known
+positive spikes in unlabelled C1 study proteins: explicitly synthetic-negative
+roles, not measured-negative labels. Biological precision is replaced by
+spike yield at denominator20; >=10pp PET baseline margin is descriptive.
+Exact PET hypergeometric p<0.05 is added alongside >=7/10 recovery. PTE retains
+25/5/top20, so inferential gate is NOT ASSESSABLE even at5/5(p=.2918125);
+PTE stays descriptive/ablation-only. Unknown background is not a G3 biological
+adversarial panel. Original lock files, amendment2 and their failures remain.
+Positive identities, provenance, method/structural tables, actual PET N and
+complete freeze still pending; review before freeze and no outcome run/tag.
