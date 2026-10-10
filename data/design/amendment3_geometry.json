@@ -1,0 +1,178 @@
+{
+  "status": "DESIGN_ONLY_NO_OUTCOME_SCORES",
+  "PET_30_entry": "historical defective geometry, not new PET corpus",
+  "PTE_25_entry": "retained descriptive diagnostic; inferential NOT ASSESSABLE",
+  "method": "exact integer combinations and rational arithmetic",
+  "rows": [
+    {
+      "N": 30,
+      "K": 10,
+      "k": 20,
+      "recovered": 0,
+      "expected": 6.666666666666667,
+      "tail_numerator": 1,
+      "tail_denominator": 1,
+      "tail_decimal": 1.0
+    },
+    {
+      "N": 30,
+      "K": 10,
+      "k": 20,
+      "recovered": 1,
+      "expected": 6.666666666666667,
+      "tail_numerator": 30045014,
+      "tail_denominator": 30045015,
+      "tail_decimal": 0.9999999667166084
+    },
+    {
+      "N": 30,
+      "K": 10,
+      "k": 20,
+      "recovered": 2,
+      "expected": 6.666666666666667,
+      "tail_numerator": 10014938,
+      "tail_denominator": 10015005,
+      "tail_decimal": 0.9999933100382875
+    },
+    {
+      "N": 30,
+      "K": 10,
+      "k": 20,
+      "recovered": 3,
+      "expected": 6.666666666666667,
+      "tail_numerator": 10012088,
+      "tail_denominator": 10015005,
+      "tail_decimal": 0.9997087370400713
+    },
+    {
+      "N": 30,
+      "K": 10,
+      "k": 20,
+      "recovered": 4,
+      "expected": 6.666666666666667,
+      "tail_numerator": 49096,
+      "tail_denominator": 49335,
+      "tail_decimal": 0.9951555690686126
+    },
+    {
+      "N": 30,
+      "K": 10,
+      "k": 20,
+      "recovered": 5,
+      "expected": 6.666666666666667,
+      "tail_numerator": 1375334,
+      "tail_denominator": 1430715,
+      "tail_decimal": 0.9612913822808875
+    },
+    {
+      "N": 30,
+      "K": 10,
+      "k": 20,
+      "recovered": 6,
+      "expected": 6.666666666666667,
+      "tail_numerator": 1189286,
+      "tail_denominator": 1430715,
+      "tail_decimal": 0.8312529050160234
+    },
+    {
+      "N": 30,
+      "K": 10,
+      "k": 20,
+      "recovered": 7,
+      "expected": 6.666666666666667,
+      "tail_numerator": 801686,
+      "tail_denominator": 1430715,
+      "tail_decimal": 0.5603394107142233
+    },
+    {
+      "N": 30,
+      "K": 10,
+      "k": 20,
+      "recovered": 8,
+      "expected": 6.666666666666667,
+      "tail_numerator": 8398,
+      "tail_denominator": 33495,
+      "tail_decimal": 0.25072398865502316
+    },
+    {
+      "N": 30,
+      "K": 10,
+      "k": 20,
+      "recovered": 9,
+      "expected": 6.666666666666667,
+      "tail_numerator": 47804,
+      "tail_denominator": 770385,
+      "tail_decimal": 0.06205209083769803
+    },
+    {
+      "N": 30,
+      "K": 10,
+      "k": 20,
+      "recovered": 10,
+      "expected": 6.666666666666667,
+      "tail_numerator": 1292,
+      "tail_denominator": 210105,
+      "tail_decimal": 0.006149306299231337
+    },
+    {
+      "N": 25,
+      "K": 5,
+      "k": 20,
+      "recovered": 0,
+      "expected": 4.0,
+      "tail_numerator": 1,
+      "tail_denominator": 1,
+      "tail_decimal": 1.0
+    },
+    {
+      "N": 25,
+      "K": 5,
+      "k": 20,
+      "recovered": 1,
+      "expected": 4.0,
+      "tail_numerator": 53129,
+      "tail_denominator": 53130,
+      "tail_decimal": 0.9999811782420478
+    },
+    {
+      "N": 25,
+      "K": 5,
+      "k": 20,
+      "recovered": 2,
+      "expected": 4.0,
+      "tail_numerator": 53029,
+      "tail_denominator": 53130,
+      "tail_decimal": 0.9980990024468286
+    },
+    {
+      "N": 25,
+      "K": 5,
+      "k": 20,
+      "recovered": 3,
+      "expected": 4.0,
+      "tail_numerator": 741,
+      "tail_denominator": 770,
+      "tail_decimal": 0.9623376623376624
+    },
+    {
+      "N": 25,
+      "K": 5,
+      "k": 20,
+      "recovered": 4,
+      "expected": 4.0,
+      "tail_numerator": 13243,
+      "tail_denominator": 17710,
+      "tail_decimal": 0.7477696216826651
+    },
+    {
+      "N": 25,
+      "K": 5,
+      "k": 20,
+      "recovered": 5,
+      "expected": 4.0,
+      "tail_numerator": 2584,
+      "tail_denominator": 8855,
+      "tail_decimal": 0.29181253529079615
+    }
+  ]
+}
